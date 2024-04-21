@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name" translatable="false">Quiz for gamers</string>
+
+    <string name="input_date_of_birth">Enter your date of birth</string>
+
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="hello_picture_description">Welcome</string>
+    <string name="button_date_of_birth">Date of birth</string>
+    <string name="button_welcome">Start the game</string>
+
+    <string name="quiz_title">Quiz for gamers</string>
+    <string name="question_01">What is the name of the main character of Half-life 1 and 2?</string>
+    <string name="answer_01_01">Barney Calhoun</string>
+    <string name="answer_01_02">Adrian Shepherd</string>
+    <string name="answer_01_03">Gordon Freeman</string>
+    <string name="answer_01_04">Alyx Vance</string>
+    <string name="question_02">What is the name of the main character in the Uncharted series?</string>
+    <string name="answer_02_01">Samuel Drake</string>
+    <string name="answer_02_02">Elena Fisher</string>
+    <string name="answer_02_03">"Victor Sullivan "</string>
+    <string name="answer_02_04">Nathan Drake</string>
+    <string name="question_03">What city was discovered in the second installment of Uncharted?</string>
+    <string name="answer_03_01">Eldorado</string>
+    <string name="answer_03_02">Shambhala</string>
+    <string name="answer_03_03">Libretalia</string>
+    <string name="answer_03_04">Ubar</string>
+    <string name="question_04">What power did both main characters in the game Scarlet Nexus possess?</string>
+    <string name="answer_04_01">Gravikinesis</string>
+    <string name="answer_04_02">Telekinesis</string>
+    <string name="answer_04_04">Time travel</string>
+    <string name="button_send">Send Answers</string>
+
+    <string name="result_title">Result:</string>
+    <string name="button_return_quiz">Re-quiz</string>
+    <string name="answer_04_03">Red Strings</string>
+</resources>
